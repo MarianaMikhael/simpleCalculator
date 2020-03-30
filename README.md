@@ -1,6 +1,9 @@
 # simpleCalculator
 
-Realização da Atividade da Aula 4 - Arquitetura e Projeto de Sistemas
+Arquitetura e Projeto de Sistemas
+Requisitos Não Funcionais
+Requisito de Modificabilidade: a facilidade de modificação de um software
+Realização da Atividade da Aula 4
 
 1.Explique os conceitos de coesão e acoplamento com as palavras de vocês e dê exemplos de códigos que apliquem os conceitos.
  
