@@ -9,16 +9,19 @@ body {
 	background-color: #000;
 }
 
+div.title {
+	width: 200px;
+	color: #fff;
+	font-size: 18px;
+	text-align: center;
+	margin: auto;
+	padding-block-start: 30px;
+}
+
 body div.mycalc {
 	text-align: center;
 	width: 214px;
 	margin: 0 auto;
-}
-
-div.mycalc div#title {
-	width: 200px;
-	color: #fff;
-	font-size: 18px;
 }
 
 div input[type='button'], button {
