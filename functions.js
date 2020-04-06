@@ -8,6 +8,15 @@ não assumem responsabilidades quais não pertencem à sua funcionalidade princi
 Temos exemplificado também, funções de relacionamento fraco (BAIXO NÍVEL DE ACOPLAMENTO),
 Visto que "takeValue", "clearInput" e "calculateResult" não possuem interdependência entre
 si para serem executadas.
+
+Um código refatorado permite que novas funcionalidades sejam adicionadas sem a necessidade
+de intervenção em funções / métodos já declarados, apenas fazendo novas declarações que supram 
+às novas necessidades.
+*/
+
+/*
+SRP: Single Responsibility Principle - Princípio da Responsabilidade Única
+Cada classe ou função deve possuir apenas uma única responsabilidade.
 */
 
 function takeValue(x) {

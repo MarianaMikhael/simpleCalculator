@@ -1,8 +1,16 @@
 <!--
+O "index.html" torna possível a interação do usuário. Nele, cada linha da
+calculadora é separada por <div>, facilitando a localização dos botões.
+
 Cada arquivo de código possue suas responsabilidades e atribuições, facilitando
-a leitura do script. O "index. html" torna possível a interação do usuário, o
-"layout.css" por sua vez, torna a página de agradável vizualização e o "functions.js"
-é responsável pelas funcionalidade da calculadora.
+a organização do script e é de responsabilidade do arquivo HTML importar todas
+as dependências e módulos externos do código para possibilitar a renderização e
+execução da página sem que haja bugs.
+-->
+
+<!--
+ISP: Interface Segregation Principle - Princípio da Segregação de Interfaces
+Muitas interfaces específicas são melhores do que uma interface única geral.
 -->
 
 <!DOCTYPE html>
@@ -27,7 +35,7 @@ a leitura do script. O "index. html" torna possível a interação do usuário, 
 
         <div id="title">
             <h2>AC2</h2 >
-            <h5>COESÃO E ACOPLAMENTO</h5>
+            <h5>ALMSolutions</h5>
         </div>
 
         <form name="calculator" id="calculator">

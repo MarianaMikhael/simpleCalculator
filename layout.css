@@ -1,3 +1,10 @@
+/* 
+O layout.css é responsável pela estilização da página.
+Por utilizamos as formatações em arquivo externo, é
+possivel realizar alterações em todo o estilo da página
+sem afetar de forma alguma o funcionamento da calculadora
+*/
+
 body {
 	background-color: #000;
 }
