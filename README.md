@@ -257,6 +257,5 @@ Há sempre que ponderar qual conceito é mais aplicável, conforme as demandas d
  R:Uma forma programática de documentar claramente os vários Contextos Delimitados que fazem parte de um sistema complexo. No mapa de  contextos ressaltamos os componentes do software e como as equipes que cuidam desse sistema interagem, além de possibilitar a criação de  uma mapa de tradução que servirá como facilitador da comunicação entre os times.
  
  -------------------------------------------------- Parte 3 --------------------------------------------------
-
-1.Refatore a calculadora, implemente pelo menos dois princípios SOLID e comente no código explicando os princípios que foram usados e como foram usados.
-Caso ache que não precisa refatorar apenas comente os princípios aplicados e onde foram aplicados no código.
+ 
+1.Refatore a calculadora, implemente pelo menos dois princípios SOLID e comente no código explicando os princípios que foram usados e como foram usados. Caso ache que não precisa refatorar apenas comente os princípios aplicados e onde foram aplicados no código.
